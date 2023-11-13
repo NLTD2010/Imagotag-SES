@@ -1,4 +1,4 @@
-# Imagotag 2.6/2.2 BWR GL120 hacking
+# Imagotag 2.2 BWR GL420 hacking
 
 ## Chips used
 
@@ -35,3 +35,4 @@
 - P2:0 - EPD Reset (display reset)
 - P2:1 - debug data and white LED
 - P2:2 - debug clock and LED boost chip enable (TPS61071)
+##### nah, i'm still working on this stuff thing

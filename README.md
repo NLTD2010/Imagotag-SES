@@ -29,8 +29,8 @@
 - P1:3 - EPD BUSY (detect if display busy)
 - P1:4 - SPI flash CS 
 - P1:5 - SPI flash CLK
-- P1:6 - SPI flahs MOSI
-- P1:7 - SPI flahs MISO
+- P1:6 - SPI flash MOSI
+- P1:7 - SPI flash MISO
 
 ### Port 2
 - P2:0 - EPD Reset (display reset)

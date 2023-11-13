@@ -4,9 +4,8 @@
 
 - [CC2510 - MCU + WiFi - 8051](../../raw/master/doc/cc2510.pdf)
 - [NT3H2111 - NFC](../../raw/master/doc/NT3H2111_2211.pdf)
-- [GDEW026Z39 - 2.6" EPD display](../../raw/master/doc/GDEW026Z39.pdf)
-- or [GDEW0213Z16 - 2.13" EPD display](../../raw/master/doc/GDEW026Z39.pdf)
-- both displays use [IL0373](../../raw/master/doc/IL0373.pdf) driver
+- [GDEW0213Z16 - 2.13" EPD display](../../raw/master/doc/GDEW0213Z16.pdf)
+- It uses [IL0373](../../raw/master/doc/IL0373.pdf) driver
 - [TPS61071 - boost converter](../../raw/master/doc/tps61071.pdf) - used (only?) for white LED 
 - [W25X10CL - Winbond 1Mbits NOR SPI flash](../../raw/master/doc/w25x10cl.pdf)
 

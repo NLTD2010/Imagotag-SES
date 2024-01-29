@@ -1,10 +1,12 @@
-# Imagotag 2.2 BWR GL420 hacking
+# Imagotag 2.6 BWR GL420 hacking
 
+![image](https://github.com/NLTD2010/Imagotag-SES/assets/77970269/60861abd-a7d4-4000-b9e1-93f330c38c14)
+> I have bought this from shopee, 2.6 price tag
 ## Chips used
 
 - [CC2510 - MCU + WiFi - 8051](../../raw/master/doc/cc2510.pdf)
 - [NT3H2111 - NFC](../../raw/master/doc/NT3H2111_2211.pdf)
-- [GDEW0213Z16 - 2.13" EPD display](../../raw/master/doc/GDEW0213Z16.pdf)
+- [GDEW0213Z16 - 2.13" EPD display](../../raw/master/doc/GDEW026Z39.pdf)
 - It uses [IL0373](../../raw/master/doc/IL0373.pdf) driver
 - [TPS61071 - boost converter](../../raw/master/doc/tps61071.pdf) - used (only?) for white LED 
 - [W25X10CL - Winbond 1Mbits NOR SPI flash](../../raw/master/doc/w25x10cl.pdf)

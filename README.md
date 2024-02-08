@@ -4,7 +4,7 @@
 > I have bought this from shopee, 2.6 price tag
 ## Chips used
 
-- [CC2510 - MCU + WiFi - 8051](../../raw/master/doc/cc2510.pdf)
+- [CC2510 - MCU + Radio - 8051](../../raw/master/doc/cc2510.pdf)
 - [NT3H2111 - NFC](../../raw/master/doc/NT3H2111_2211.pdf)
 - [GDEW0213Z16 - 2.13" EPD display](../../raw/master/doc/GDEW026Z39.pdf)
 - It uses [IL0373](../../raw/master/doc/IL0373.pdf) driver
